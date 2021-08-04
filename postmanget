@@ -1,0 +1,30 @@
+//For Get Request
+https://api.spotify.com/v1/me
+
+Bearer Token:
+Bearer BQC7Hbp3oefymTOCRoibzjkZC4hspEJvBFu5A7JPXg-7jVif-Tk22zO14ROPvHT0_LcTYrdR2-3LFHZA7PNw76tJlT5tNNqqWMNFBx7k_VlO-jxV_XUvas6HBVzNsYnWDYbL3Rh2dFzferd7a84t8fDrnWjGR970C-yBs848jqCdpaYmD6I8DCNUkEqGRoFu8RkAfoRuPCBm10o2qoI-pB2TVaYT4hwIGzxFu5qAs9GBQ8aMpM83fda8nkTLgYaqFULUIfm_pZltWMQ3UtCbacDJEG3ux78udgXw7rDy"
+
+Result is
+{
+    "country": "IN",
+    "display_name": "s607o65dai5ertgc52yzurtpo",
+    "email": "nilimawadal1@gmail.com",
+    "explicit_content": {
+        "filter_enabled": false,
+        "filter_locked": false
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/user/s607o65dai5ertgc52yzurtpo"
+    },
+    "followers": {
+        "href": null,
+        "total": 0
+    },
+    "href": "https://api.spotify.com/v1/users/s607o65dai5ertgc52yzurtpo",
+    "id": "s607o65dai5ertgc52yzurtpo",
+    "images": [],
+    "product": "open",
+    "type": "user",
+    "uri": "spotify:user:s607o65dai5ertgc52yzurtpo"
+}
+
