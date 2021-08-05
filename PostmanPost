@@ -1,0 +1,39 @@
+{
+"collaborative": false,
+    "description": "New playlist description",
+    "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/41sEEGgtxExoBuLfcU2jS0"
+    },
+    "followers": {
+        "href": null,
+        "total": 0
+    },
+    "href": "https://api.spotify.com/v1/playlists/41sEEGgtxExoBuLfcU2jS0",
+    "id": "41sEEGgtxExoBuLfcU2jS0",
+    "images": [],
+    "name": "miii",
+    "owner": {
+        "display_name": "s607o65dai5ertgc52yzurtpo",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/user/s607o65dai5ertgc52yzurtpo"
+        },
+        "href": "https://api.spotify.com/v1/users/s607o65dai5ertgc52yzurtpo",
+        "id": "s607o65dai5ertgc52yzurtpo",
+        "type": "user",
+        "uri": "spotify:user:s607o65dai5ertgc52yzurtpo"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MSwyYmMwMjM5MTFhZjk5NzA1MjY3YWRlOTAxYmM5MzE4ZWE3NTg1MmQ5",
+    "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/41sEEGgtxExoBuLfcU2jS0/tracks",
+        "items": [],
+        "limit": 100,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 0
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:41sEEGgtxExoBuLfcU2jS0"
+}
